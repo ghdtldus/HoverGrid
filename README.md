@@ -1,4 +1,4 @@
-# Grid Item Reveal Animation on Hover
+# Grid Item Reveal Animation on Hover.
 
 A grid item reveal animation on hover inspired by [Metalab](https://www.metalab.com/).
 
